@@ -1,6 +1,11 @@
 import React from "react";
 import Expenses from "./components/Expenses/Expenses";
 
+// Alternative Syntax for function-
+// const App = () => {
+// or
+// function App() {}
+// }
 function App() {
   const expenses = [
     {
